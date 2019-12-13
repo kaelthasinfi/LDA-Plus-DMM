@@ -1,0 +1,2 @@
+src/lda -est -alpha 0.5 -beta 0.1 -ntopics 200 -niters 500 -savestep 100 -twords 20 -dfile models/casestudy/trndocs.dat
+
