@@ -1,5 +1,6 @@
 # LDA-Plus-DMM
-Use LDA accelerate DMM\\
+Use LDA accelerate DMM
+
 Code about model is in the src.
 
 - make clean
